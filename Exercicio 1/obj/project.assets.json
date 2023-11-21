@@ -249,11 +249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joaol\\Downloads\\Atividade 2\\Exercicio 1\\Projeto.csproj",
+      "projectUniqueName": "C:\\Users\\joaol\\Documents\\GitHub\\ATV2-CCOG\\Exercicio 1\\Projeto.csproj",
       "projectName": "Projeto",
-      "projectPath": "C:\\Users\\joaol\\Downloads\\Atividade 2\\Exercicio 1\\Projeto.csproj",
+      "projectPath": "C:\\Users\\joaol\\Documents\\GitHub\\ATV2-CCOG\\Exercicio 1\\Projeto.csproj",
       "packagesPath": "C:\\Users\\joaol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joaol\\Downloads\\Atividade 2\\Exercicio 1\\obj\\",
+      "outputPath": "C:\\Users\\joaol\\Documents\\GitHub\\ATV2-CCOG\\Exercicio 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
